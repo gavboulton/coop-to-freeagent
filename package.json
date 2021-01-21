@@ -1,0 +1,10 @@
+{
+  "name": "coop-to-freeagent",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "csv-parser": "^2.3.3"
+  }
+}
